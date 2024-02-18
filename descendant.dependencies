@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "github",
+   "repository": "Descendant-Devices/vendor_xiaomi_gauguin",
+   "target_path": "vendor/xiaomi/gauguin",
+   "branch": "eleven"
+ },
+ {
+   "remote": "github",
+   "repository": "Descendant-Devices/kernel_xiaomi_gauguin",
+   "target_path": "kernel/xiaomi/gauguin",
+   "branch": "eleven"
+ }
+]
